@@ -1,5 +1,5 @@
 """
-pdfsleect.py 
+pdfseleect.py 
 
 Sends pdf in a folder to amazon textract api  ...
 """
